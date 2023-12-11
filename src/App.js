@@ -11,7 +11,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           hello {fname} {lname} <br/>
-          making changes to test deploy branch
+          making changes to test deploy branch <br/>
+          push changes in main to check if it gets deployed
         </p>
         <a
           className="App-link"
