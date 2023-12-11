@@ -12,7 +12,8 @@ function App() {
         <p>
           hello {fname} {lname} <br/>
           making changes to test deploy branch <br/>
-          push changes in main to check if it gets deployed
+          push changes in main to check if it gets deployed<br/>
+          just random changes
         </p>
         <a
           className="App-link"
